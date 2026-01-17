@@ -1,0 +1,9 @@
+customer_id,signup_date,revenue,region,status,last_active
+C001,2024-01-15,1200,North,active,2026-01-10
+C002,2024-02-20,850,South,churned,2025-11-05
+C003,2024-03-10,2400,East,active,2026-01-15
+C004,2024-04-05,600,West,at_risk,2025-12-20
+C005,2024-05-12,1900,North,active,2026-01-14
+C006,2024-06-18,400,South,churned,2025-10-15
+C007,2024-07-22,3200,East,active,2026-01-16
+C008,2024-08-30,750,West,active,2026-01-12
